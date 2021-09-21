@@ -2,10 +2,8 @@
 
 ## Features
 
-Press alt+` to toggle the notes file (default: /.vscode/notes.txt). Notes file will be created if it doesn't exist.
-
-![Quick Notes Feature](images/quick-notes.gif)
+Press ctrl+n to toggle the notes file (default: /.vscode/notes.txt). Notes file will be created if it doesn't exist.
 
 ## Extension Settings
 
-* `quicknotes.fileName`: specify notes file name (default: notes.txt)
+* `quicknotes.path`: Quick notes path to note file.
